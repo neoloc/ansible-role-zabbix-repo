@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: zabbix-repo
+  role_name: zabbix_repo
   author: neoloc
   description: Install the zabbix repository
   license: "license (BSD, MIT)"

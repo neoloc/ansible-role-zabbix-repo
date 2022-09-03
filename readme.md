@@ -1,9 +1,9 @@
-zabbix-repo Role
+zabbix_repo Role
 =========
 
 Install the zabbix repository.
 
-[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-neoloc.zabbix-repo-blue.svg)](https://galaxy.ansible.com/neoloc/ansible-role-zabbix-repo/)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-neoloc.zabbix_repo-blue.svg)](https://galaxy.ansible.com/neoloc/ansible-role-zabbix_repo/)
 
 
 Requirements
@@ -30,7 +30,7 @@ Example Playbook
 
     - hosts: all
       roles:
-         - neoloc.zabbix-repo
+         - neoloc.zabbix_repo
 
 License
 -------
