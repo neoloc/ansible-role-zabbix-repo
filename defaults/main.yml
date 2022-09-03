@@ -1,0 +1,11 @@
+---
+# defaults file for role
+
+# enable the repo
+zabbix_repository_configure: false
+
+# The `zabbix_version_major` are two numerical values, sparated by a period.
+zabbix_repository_version_major: "6.2"
+
+# The `zabbix_version_minor` is a single numerical value.
+zabbix_repository_version_minor: 1
